@@ -1,0 +1,14 @@
+{
+    "name": "rahman/mobpro-backend",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rahman Hakim",
+            "email": "rahmanhakim2435@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^7.16",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
