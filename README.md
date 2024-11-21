@@ -1,0 +1,2 @@
+- Jalankan `composer install`
+- Jalankan `php -S <ip>:<port> main.php`
